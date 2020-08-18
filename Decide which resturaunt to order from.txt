@@ -1,4 +1,6 @@
 Decide which resturaunt to order from 
 Decide which pizza you'd like 
 Pick toppings for pizza 
-Order pizza 
+enter adress and payment info
+Patiently await pizza arrival 
+maybe have a nice cold one with the boys 
